@@ -1,0 +1,14 @@
+C:\Users\BOOT\Documents\Visual Studio 2017\Projects\Documentsystem_5\Documentsystem_5\obj\Debug\Documentsystem_5.frmmain.resources
+C:\Users\BOOT\Documents\Visual Studio 2017\Projects\Documentsystem_5\Documentsystem_5\obj\Debug\Documentsystem_5.Resources.resources
+C:\Users\BOOT\Documents\Visual Studio 2017\Projects\Documentsystem_5\Documentsystem_5\obj\Debug\Documentsystem_5.vbproj.GenerateResource.cache
+C:\Users\BOOT\Documents\Visual Studio 2017\Projects\Documentsystem_5\Documentsystem_5\obj\Debug\Documentsystem_5.vbproj.CoreCompileInputs.cache
+C:\Users\BOOT\Documents\Visual Studio 2017\Projects\Documentsystem_5\Documentsystem_5\bin\Debug\Documentsystem_5.exe.config
+C:\Users\BOOT\Documents\Visual Studio 2017\Projects\Documentsystem_5\Documentsystem_5\bin\Debug\Documentsystem_5.exe
+C:\Users\BOOT\Documents\Visual Studio 2017\Projects\Documentsystem_5\Documentsystem_5\bin\Debug\Documentsystem_5.pdb
+C:\Users\BOOT\Documents\Visual Studio 2017\Projects\Documentsystem_5\Documentsystem_5\bin\Debug\Documentsystem_5.xml
+C:\Users\BOOT\Documents\Visual Studio 2017\Projects\Documentsystem_5\Documentsystem_5\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\BOOT\Documents\Visual Studio 2017\Projects\Documentsystem_5\Documentsystem_5\obj\Debug\Documentsystem_5.vbproj.CopyComplete
+C:\Users\BOOT\Documents\Visual Studio 2017\Projects\Documentsystem_5\Documentsystem_5\obj\Debug\Documentsystem_5.exe
+C:\Users\BOOT\Documents\Visual Studio 2017\Projects\Documentsystem_5\Documentsystem_5\obj\Debug\Documentsystem_5.xml
+C:\Users\BOOT\Documents\Visual Studio 2017\Projects\Documentsystem_5\Documentsystem_5\obj\Debug\Documentsystem_5.pdb
+C:\Users\BOOT\Documents\Visual Studio 2017\Projects\Documentsystem_5\Documentsystem_5\obj\Debug\Documentsystem_5.vbprojResolveAssemblyReference.cache
